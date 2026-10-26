@@ -1,12 +1,6 @@
-import { about } from '../data.js'
+import { about, focus } from '../data.js'
 import Reveal from './Reveal.jsx'
 import Section from './Section.jsx'
-
-const focus = [
-  { title: 'Full stack ownership', text: 'React front-ends, Node.js / FastAPI services and SQL data layers — end to end.' },
-  { title: 'GenAI in production', text: 'RAG pipelines for resume–JD matching and an HR policy chatbot.' },
-  { title: 'Workflow automation', text: 'Approval and document systems with RBAC, SharePoint and Power Automate.' },
-]
 
 export default function About() {
   return (

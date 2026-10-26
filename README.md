@@ -12,7 +12,7 @@ npm run build    # production build into dist/
 
 ## Editing content
 
-All text lives in [`src/data.js`](src/data.js) — profile, stats, experience, projects, skills and education. The resume PDF is served from `public/Sandeep_Pucha_Resume.pdf`; replace that file to update it.
+All text lives in [`src/data.js`](src/data.js) — profile, stats, experience, projects, skills and education. The resume PDF is served from `public/Sandeep_Pucha_AI_Fullstack_Developer.pdf`; replace that file to update it.
 
 ## Deploy
 

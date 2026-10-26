@@ -5,8 +5,9 @@ import { CloseIcon, MenuIcon, MoonIcon, SunIcon } from './Icons.jsx'
 const links = [
   { href: '#about', label: 'About' },
   { href: '#experience', label: 'Experience' },
-  { href: '#projects', label: 'Projects' },
   { href: '#skills', label: 'Skills' },
+  { href: '#projects', label: 'Projects' },
+  { href: '#education', label: 'Education' },
   { href: '#contact', label: 'Contact' },
 ]
 
