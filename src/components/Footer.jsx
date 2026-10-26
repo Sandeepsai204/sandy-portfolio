@@ -5,7 +5,6 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__inner">
         <p>© {new Date().getFullYear()} {profile.name}</p>
-        <p className="muted">Built with React &amp; Vite · Deployed on Vercel</p>
       </div>
     </footer>
   )

@@ -65,12 +65,15 @@ export const skills = [
 export const projects = [
   {
     title: 'AI Profile Matching System',
-    subtitle: 'AI-ranked employee profiles for client requirements',
+    subtitle: 'AI-ranked profiles for hiring and client staffing',
     client: 'IT Services',
     role: 'AI Full Stack Developer',
     description:
-      'Internal web app that helps the Sales team find the best-fit employee profiles for client requirements. AI-powered ranking matches resumes to project requirements and generates accurate match scores, cutting manual effort and speeding up resource allocation.',
-    points: ['AI-driven mock interviews and interview-question generation to assess candidate readiness.'],
+      'Web app that matches resumes against requirements using AI-powered ranking and generates accurate match scores, with AI-driven mock interviews and interview-question generation to assess readiness. It supports two workflows:',
+    points: [
+      'Hiring: Internal HR screens and ranks external candidates against job descriptions.',
+      'Client projects: Sales teams and PMs find the best-fit internal employees for client requirements and prepare them for client interviews.',
+    ],
     tech: ['React', 'FastAPI', 'LLMs', 'BM25', 'Google Drive API', 'PostgreSQL'],
     featured: true,
   },

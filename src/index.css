@@ -854,10 +854,7 @@ button {
 }
 
 .footer__inner {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 8px;
+  text-align: center;
 }
 
 /* ---------- Responsive ---------- */
@@ -1036,10 +1033,5 @@ button {
   .contact__addr {
     overflow: hidden;
     text-overflow: ellipsis;
-  }
-
-  .footer__inner {
-    flex-direction: column;
-    text-align: center;
   }
 }

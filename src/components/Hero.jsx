@@ -14,7 +14,7 @@ export default function Hero() {
         </Reveal>
         <Reveal delay={80}>
           <h1 className="hero__title">
-            Hi, I'm {profile.name.split(' ')[0]}.
+            Hi, I'm {profile.name}.
             <br />
             <span className="gradient-text">I build enterprise apps &amp; AI tools.</span>
           </h1>
