@@ -35,7 +35,7 @@ export const focus = [
 export const experience = [
   {
     company: 'ABSYZ Software Consulting Pvt. Ltd.',
-    role: 'Associate Frontend Developer',
+    role: 'AI Full Stack Developer',
     period: 'Sep 2023 — Present',
     location: 'Hyderabad',
     highlights: [
