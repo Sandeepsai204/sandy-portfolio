@@ -6,7 +6,7 @@ export const profile = {
   role: 'AI Full Stack Developer',
   tagline: 'React · Node.js · Python FastAPI · OpenAI / Claude · RAG',
   location: 'Hyderabad, India',
-  email: 'sandeepsai1509@gmail.com',
+  email: 'sandeeppucha648@gmail.com',
   linkedin: 'https://www.linkedin.com/in/sandeep-pucha-4a6817224/',
   github: 'https://github.com/Sandeepsai204',
   resume: '/Sandeep_Pucha_AI_Fullstack_Developer.pdf',
